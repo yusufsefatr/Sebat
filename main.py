@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Günlük Görev Takip Botu — Ana Giriş Noktası
+Sebat — Ana Giriş Noktası
 """
 import logging
 from telegram import Update, BotCommand
